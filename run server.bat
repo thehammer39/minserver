@@ -1,0 +1,1 @@
+java -Xmx3072M -Xms3072M -Dfml.readTimeout=60 -jar server.jar -nogui
